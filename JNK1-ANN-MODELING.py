@@ -1,7 +1,8 @@
 """
 JNK1 Artificial Neural Network (ANN) Regression Modeling Script             
 ================================================================
-Developed by: KR JINURAJ and V.N. BALAJI
+Developed by: KR JINURAJ (jinurajkr@gmail.com), and V.N. BALAJI (vnbalaji@gmail.com)
+Copyright: All rights reserved.
 
 This script performs ANN regression modeling with:
 - 80:20 train-test split
